@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying for a Tensorflow certificate, and am learning all about AI and ML implementation in business through independent consulting. 
 - 💞️ I’m looking to collaborate on ... innovative project ideas to bring value to all involved. 
 - 📫 How to reach me ... jadavisdata@gmail.com, jdavisdevops@gmail.com
+- Education: B.S. Business Administration, Cornell University – Machine Learning Certificate
 
 <!---
 jdavisdevops/jdavisdevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
