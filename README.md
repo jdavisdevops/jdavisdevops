@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdavisdevops
 - 👀 I’m interested in ... ML/AI, pythonic implementation of value-added projects, and business development leveraging technology.
-- 🌱 I’m currently studying for a Tensorflow certificate, and am learning all about AI and ML implementation in business through independent consulting. 
+- 🌱 I’m currently studying code that writes code, and am learning all about AI and ML implementation in business through work and my company. 
 - 💞️ I’m looking to collaborate on ... innovative project ideas to bring value to all involved. 
 - 📫 How to reach me ... jadavisdata@gmail.com, jdavisdevops@gmail.com
 - Education: B.S. Business Administration, Cornell University – Machine Learning Certificate
